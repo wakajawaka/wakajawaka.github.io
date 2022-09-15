@@ -1,12 +1,12 @@
 
 h1 {
     color: rgb(14, 10, 90);
-    border: dotted 18px;
+ 
     text-align: center;
     font-size: 75px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-top: 0%;
-    border-radius: 5%;
+  
 }
 
 .body {
